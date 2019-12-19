@@ -1,1 +1,2 @@
 This is a sample txt file created directly in the repository
+ADding one new line 
